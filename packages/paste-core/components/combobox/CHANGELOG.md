@@ -1,5 +1,11 @@
 # Change Log
 
+## 12.2.1
+
+### Patch Changes
+
+- [`d068c208a`](https://github.com/twilio-labs/paste/commit/d068c208aa2657a48656acc47381ee9a8920d555) [#2711](https://github.com/twilio-labs/paste/pull/2711) Thanks [@TheSisb](https://github.com/TheSisb)! - [Combobox] Refine typings and styling for group options for Multiselect Combobox.
+
 ## 12.2.0
 
 ### Minor Changes

@@ -1,5 +1,11 @@
 # Change Log
 
+## 11.1.2
+
+### Patch Changes
+
+- [`7599162bc`](https://github.com/twilio-labs/paste/commit/7599162bcdfcd0c997c688ab49ede59b5f627c0f) [#2710](https://github.com/twilio-labs/paste/pull/2710) Thanks [@gloriliale](https://github.com/gloriliale)! - [Button] add box shadow to toggle button's pressed states to match regular button height
+
 ## 11.1.1
 
 ### Patch Changes

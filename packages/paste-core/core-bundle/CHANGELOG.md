@@ -1,5 +1,36 @@
 # Change Log
 
+## 16.0.0
+
+### Major Changes
+
+- [`56186cb51`](https://github.com/twilio-labs/paste/commit/56186cb511555bc20f5fe57439e207b33a3f7653) [#2697](https://github.com/twilio-labs/paste/pull/2697) Thanks [@nkrantz](https://github.com/nkrantz)! - [Modal] remove `__console_patch` prop because it is no longer necessary
+
+### Minor Changes
+
+- [`8ce66e675`](https://github.com/twilio-labs/paste/commit/8ce66e675e6f621a46e35da8029d5a0e95ff5478) [#2703](https://github.com/twilio-labs/paste/pull/2703) Thanks [@shleewhite](https://github.com/shleewhite)! - [Code Block] add copyTextFormatter prop
+
+### Patch Changes
+
+- [`114e80db7`](https://github.com/twilio-labs/paste/commit/114e80db74253a2bf902edfb853a940d6b6310dd) [#2693](https://github.com/twilio-labs/paste/pull/2693) Thanks [@shleewhite](https://github.com/shleewhite)! - [Avatar] add flexShrink 0 so it stays the correct size in a flex layout
+
+* [`d068c208a`](https://github.com/twilio-labs/paste/commit/d068c208aa2657a48656acc47381ee9a8920d555) [#2711](https://github.com/twilio-labs/paste/pull/2711) Thanks [@TheSisb](https://github.com/TheSisb)! - [Combobox] Refine typings and styling for group options for Multiselect Combobox.
+
+- [`7599162bc`](https://github.com/twilio-labs/paste/commit/7599162bcdfcd0c997c688ab49ede59b5f627c0f) [#2710](https://github.com/twilio-labs/paste/pull/2710) Thanks [@gloriliale](https://github.com/gloriliale)! - [Button] add box shadow to toggle button's pressed states to match regular button height
+
+* [`b5c19e60e`](https://github.com/twilio-labs/paste/commit/b5c19e60e5d1c59b47c3455b3adf0d779ecf65e5) [#2685](https://github.com/twilio-labs/paste/pull/2685) Thanks [@nkrantz](https://github.com/nkrantz)! - [Avatar] Prevent underlines from being added to Avatar initials inside of anchors or display pills
+
+- [`114e80db7`](https://github.com/twilio-labs/paste/commit/114e80db74253a2bf902edfb853a940d6b6310dd) [#2693](https://github.com/twilio-labs/paste/pull/2693) Thanks [@shleewhite](https://github.com/shleewhite)! - [Chat Message] hug the width of the ChatBubble to the width of the message
+
+- Updated dependencies [[`114e80db7`](https://github.com/twilio-labs/paste/commit/114e80db74253a2bf902edfb853a940d6b6310dd), [`56186cb51`](https://github.com/twilio-labs/paste/commit/56186cb511555bc20f5fe57439e207b33a3f7653), [`d068c208a`](https://github.com/twilio-labs/paste/commit/d068c208aa2657a48656acc47381ee9a8920d555), [`8ce66e675`](https://github.com/twilio-labs/paste/commit/8ce66e675e6f621a46e35da8029d5a0e95ff5478), [`7599162bc`](https://github.com/twilio-labs/paste/commit/7599162bcdfcd0c997c688ab49ede59b5f627c0f), [`b5c19e60e`](https://github.com/twilio-labs/paste/commit/b5c19e60e5d1c59b47c3455b3adf0d779ecf65e5), [`114e80db7`](https://github.com/twilio-labs/paste/commit/114e80db74253a2bf902edfb853a940d6b6310dd)]:
+  - @twilio-paste/avatar@6.1.1
+  - @twilio-paste/modal@13.0.0
+  - @twilio-paste/combobox@12.2.1
+  - @twilio-paste/code-block@1.1.0
+  - @twilio-paste/button@11.1.2
+  - @twilio-paste/chat-log@2.0.2
+  - @twilio-paste/alert-dialog@6.0.0
+
 ## 15.3.0
 
 ### Minor Changes
